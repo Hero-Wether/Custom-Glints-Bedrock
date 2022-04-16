@@ -1,0 +1,45 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Custom Enchantment Glints",
+		"uuid": "1ef746d7-495f-45b3-a0da-6a649cc613d5",
+		"version": [ 1, 0, 1 ],
+		"description": "§6Custom Glints for Items and Armor\n§4Made By Hero Wether\n§5www.voxellabstudios.com",
+		"min_engine_version": [ 1, 16, 100 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "7c4d16dd-2799-45ad-a73b-7a818d44ad66",
+			"version": [ 1, 0, 1 ],
+			"description": ""
+		}
+	],
+	"subpacks": [
+    {
+      "folder_name": "Rainbow",
+			"name": "Rainbow Glint",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "Voxel Labs",
+      "name": "Enchantment Table's Glint",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "Blue Hue",
+      "name": "Blue Hue",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "Cleaner",
+      "name": "Cleaner Glint",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "No Glint",
+      "name": "No GLint",
+			"memory_tier": 0
+    }
+	]
+}
